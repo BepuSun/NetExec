@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as ET
+import defusedxml.ElementTree as ET
 from io import BytesIO
 from nxc.helpers.misc import CATEGORY
 
